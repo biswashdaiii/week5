@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="car">
+        <item> tesla</item>
+        <item>lambo</item>
+        <item>hyundai</item>
+        <item>suzuki</item>
+        <item>bugati</item>
+        <item>nissan</item>
+        <item>bmw</item>
+        <item>audi</item>
+        <item>cheoverlet</item>
+        <item> porsche</item>
+        <item>ford</item>
+        <item>ferarri</item>
+        <item>honda</item>
+        <item>lexus</item>
+        <item>fiat</item>
+        <item>fortuner</item>
+        <item>morisis garage</item>
+    </string-array>
+</resources>
